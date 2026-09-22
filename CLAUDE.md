@@ -13,3 +13,7 @@ Python. No framework or dependency manager has been chosen yet — check for a `
 ## Conventions
 
 - Report drafts and project documentation (README, etc.) are written in Korean.
+
+## Working with agents
+
+This project is being designed and built collaboratively with Claude Code.
